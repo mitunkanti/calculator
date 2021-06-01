@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #cc9b6d !important;
+}
+h5{
+	text-align: center;
+	padding: 30px 0px;
+	color: white;
+	font-weight: 800;
+}
+.output{
+	padding: 15px 20px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.calculator-box{
+	width: 275px;
+	margin: 0 auto;
+	padding: 30px;
+	border-radius: 10px;
+	background: #dde7f3;
+	border: 2px solid black;
+}
+.btn-gallery .btn {
+	color: black;
+	border: 1px solid gray;
+	background: #eceef1 /*#efdddd*/;
+	width: 38px;
+}
+
+.btn-gallery .btn:hover {
+
+	background: #ffcf69 
+
+}
