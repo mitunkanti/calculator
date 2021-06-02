@@ -13,7 +13,8 @@ h5{
 	font-weight: 800;
 }
 .output{
-	padding: 12px 0px;                                                                                                                                 
+	width: 208px;
+	padding: 12px 5px;                                                                                                                                 
 	border-radius: 5px;
 	margin-bottom: 20px;
 	text-align: right;
